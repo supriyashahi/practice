@@ -1,0 +1,15 @@
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.exe
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.deps.json
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.runtimeconfig.json
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.dll
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.sourcelink.json
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.dll
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\refint\FactoryDesignPattern.dll
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.pdb
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\FactoryDesignPattern.genruntimeconfig.cache
+C:\Personal\Learning\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net8.0\ref\FactoryDesignPattern.dll
