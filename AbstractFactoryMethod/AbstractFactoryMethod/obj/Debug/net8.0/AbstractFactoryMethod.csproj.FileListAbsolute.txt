@@ -1,0 +1,15 @@
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\bin\Debug\net8.0\AbstractFactoryMethod.exe
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\bin\Debug\net8.0\AbstractFactoryMethod.deps.json
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\bin\Debug\net8.0\AbstractFactoryMethod.runtimeconfig.json
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\bin\Debug\net8.0\AbstractFactoryMethod.dll
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\bin\Debug\net8.0\AbstractFactoryMethod.pdb
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\AbstractFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\AbstractFactoryMethod.AssemblyInfoInputs.cache
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\AbstractFactoryMethod.AssemblyInfo.cs
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\AbstractFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\AbstractFactoryMethod.sourcelink.json
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\AbstractFactoryMethod.dll
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\refint\AbstractFactoryMethod.dll
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\AbstractFactoryMethod.pdb
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\AbstractFactoryMethod.genruntimeconfig.cache
+C:\Personal\Learning\AbstractFactoryMethod\AbstractFactoryMethod\obj\Debug\net8.0\ref\AbstractFactoryMethod.dll
