@@ -1,0 +1,15 @@
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\bin\Debug\net8.0\GetScoreFactoryExample.exe
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\bin\Debug\net8.0\GetScoreFactoryExample.deps.json
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\bin\Debug\net8.0\GetScoreFactoryExample.runtimeconfig.json
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\bin\Debug\net8.0\GetScoreFactoryExample.dll
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\bin\Debug\net8.0\GetScoreFactoryExample.pdb
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\GetScoreFactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\GetScoreFactoryExample.AssemblyInfoInputs.cache
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\GetScoreFactoryExample.AssemblyInfo.cs
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\GetScoreFactoryExample.csproj.CoreCompileInputs.cache
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\GetScoreFactoryExample.sourcelink.json
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\GetScoreFactoryExample.dll
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\refint\GetScoreFactoryExample.dll
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\GetScoreFactoryExample.pdb
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\GetScoreFactoryExample.genruntimeconfig.cache
+C:\Personal\Learning\GetScoreFactoryExample\GetScoreFactoryExample\obj\Debug\net8.0\ref\GetScoreFactoryExample.dll
